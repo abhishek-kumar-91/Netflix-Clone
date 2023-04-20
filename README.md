@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+
+https://netflix-clone-a42f2.web.app/
 ![GitHub Logo](./1.png)
 ![GitHub Logo](./2.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
